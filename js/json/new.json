@@ -1,0 +1,80 @@
+[
+  {
+    "img": "img/newslideimg1.jpg",
+    "number": "1",
+    "name": "COOL 반오픈 반팔니트_SPKWE25",
+    "price": "9,900",
+    "priceDel": "19,900",
+    "sale": "50%",
+    "color_option_1": "black",
+    "color_option_2": "blueviolet",
+    "color_option_3": "pink",
+    "review_cnt": "리뷰3건",
+    "gender": "남성용"
+  },
+  {
+    "img": "img/newslideimg2.jpg",
+    "number": "2",
+    "name": "COOL 부츠컷 진(INDIGO)",
+    "price": "29,900",
+    "priceDel": "39,900",
+    "sale": "25%",
+    "color_option_1": "black",
+    "color_option_2": "blueviolet",
+    "color_option_3": "blue",
+    "review_cnt": "리뷰308건",
+    "gender": "여성용"
+  },
+  {
+    "img": "img/newslideimg3.jpg",
+    "number": "3",
+    "name": "COOL GEORGIA ATHLETIC",
+    "price": "14,900",
+    "priceDel": "29,900",
+    "sale": "50 %",
+    "color_option_1": "gold",
+    "color_option_2": "white",
+    "color_option_3": "blueviolet",
+    "review_cnt": "리뷰208건",
+    "gender": "여성용"
+  },
+  {
+    "img": "img/newslideimg4.jpg",
+    "number": "4",
+    "name": "라이트 바인딩 쇼츠(나일론)",
+    "price": "15,900",
+    "priceDel": "25,900",
+    "sale": "39 %",
+    "color_option_1": "aqua",
+    "color_option_2": "grey",
+    "color_option_3": "brown",
+    "review_cnt": "리뷰69건",
+    "gender": "남성용"
+  },
+  {
+    "img": "img/newslideimg5.jpg",
+    "number": "5",
+    "name": "COOL 썸머 카디건_SPCKE",
+    "price": "29,900",
+    "priceDel": "39,900",
+    "sale": "25 %",
+    "color_option_1": "black",
+    "color_option_2": "rgb(248, 145, 191)",
+    "color_option_3": "rgb(156, 248, 140)",
+    "review_cnt": "리뷰87건",
+    "gender": "남성용"
+  },
+  {
+    "img": "img/newslideimg6.jpg",
+    "number": "6",
+    "name": "라이트 카고 롱 스커트(나일론)",
+    "price": "9,900",
+    "priceDel": "19,900",
+    "sale": "50 %",
+    "color_option_1": "aqua",
+    "color_option_2": "blueviolet",
+    "color_option_3": "greenyellow",
+    "review_cnt": "리뷰37건",
+    "gender": "남성용"
+  }
+]

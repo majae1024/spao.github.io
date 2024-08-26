@@ -1,0 +1,93 @@
+    @charset "utf-8";
+
+    #sub{
+        width:1400px;
+        height:2000px;
+        margin:0 auto;
+        background-color: aqua;
+        padding: 20px;}
+        
+    #submenu{
+        width: 95%;
+        height: 40px;
+        margin:0 auto;
+        }
+
+    #content{
+        width: 95%;
+        height:1500px;
+        margin:0 auto;
+        background-color: blue;}
+
+
+
+    #submenu > ul{
+        float:right;}
+
+    #submenu > ul > li{
+        float: left;
+        color:#666;}
+
+
+    #content > #left{
+        width:40%;
+        height:1000px ;
+        background-color: rgb(197, 154, 237);
+        overflow: hidden;
+        margin: 0 0 0 100px;
+        float: left;
+    }
+    #left > img{
+        width: 100%;
+        height: 700px;
+        }
+
+    #content > #left > span{
+        width: 100px;
+        height: 130px;
+        background-color: rgb(209, 231, 109);
+        float:left;
+        margin:0 15px 0 0;
+        overflow: hidden;}
+    #content > #left > span >img{
+        width:100%;
+        height: 100%;
+        }
+    #content > #left > span >img:hover{
+        border:2px solid#000;
+    }
+
+
+    #right{
+        width:40%;
+        height:1000px;
+        background-color: rgb(141, 233, 141);
+        float: left;
+        margin: 0 0 0 100px;}
+
+    #right > span{
+        width: 30px;
+        height: 12px;
+        background-color: black;
+        color:white;
+        font-size: 12px;
+        text-align:center;
+        margin:0 5px 0 0}
+    #right > #pricebox>p{
+        font-size: 25px;}
+        
+    #right > #pricebox> p > del{
+        color:#666;
+        font-size: 20px;
+        padding:10px}
+
+    #right > #pricebox> p >span{
+        color:rgb(192, 0, 0);
+        font-size:20px;}
+    
+    #right > #info{
+        padding:20px 0;
+        border-bottom: 3px double #666 ;
+        border-top:3px double #666;
+        }
+
